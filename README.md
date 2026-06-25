@@ -10,6 +10,15 @@
 - Machine Learning: Random Forest, Gradient Boosting, SVM, KNN, model evaluation
 - Analytical Domains: business analytics, product analytics, transaction analytics, risk analytics, cryptocurrency analytics, fraud detection
 
+## Interests
+
+- Product & Business Analytics
+- Cryptocurrency, Digital Assets & Trading
+- Cryptocurrency Fraud & Financial Crime
+- Organised Crime & Illicit Networks
+- Behavioural & Risk Analytics
+- Data Visualisation & Storytelling
+
 ## Portfolio
 
 - [English Portfolio](https://shtypel.github.io/portfolio-en/)
