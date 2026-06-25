@@ -6,8 +6,9 @@ Data analyst focused on fraud detection, AML, financial crime, and investigative
 
 - Python: pandas, scikit-learn, matplotlib
 - SQL: MySQL, CTEs, joins, window functions, risk flag logic
+- Business Intelligence: Tableau, dashboard development, KPI reporting, interactive data visualisation
 - Machine Learning: Random Forest, Gradient Boosting, SVM, KNN, model evaluation
-- Fraud & Financial Crime: AML, crypto fraud, transaction monitoring, risk scoring
+- Analytical Domains: business analytics, product analytics, transaction analytics, risk analytics, cryptocurrency analytics, fraud detection
 - Research: crime analysis, cybercrime, financial crime, investigative methodology
 
 ## Portfolio
