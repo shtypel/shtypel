@@ -1,6 +1,6 @@
 # Arisha Shtypel
 
-Data analyst focused on fraud detection, AML, financial crime, and investigative analytics.
+# Analyst | Data Analytics • Business Intelligence • Risk & Financial Crime
 
 ## Core skills
 
@@ -9,7 +9,6 @@ Data analyst focused on fraud detection, AML, financial crime, and investigative
 - Business Intelligence: Tableau, dashboard development, KPI reporting, interactive data visualisation
 - Machine Learning: Random Forest, Gradient Boosting, SVM, KNN, model evaluation
 - Analytical Domains: business analytics, product analytics, transaction analytics, risk analytics, cryptocurrency analytics, fraud detection
-- Research: crime analysis, cybercrime, financial crime, investigative methodology
 
 ## Portfolio
 
