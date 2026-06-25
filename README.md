@@ -1,6 +1,6 @@
 # Arisha Shtypel
 
-# Analyst | Data Analytics • Business Intelligence • Risk & Financial Crime
+## Analyst | Data Analytics • Business Intelligence • Risk & Financial Crime
 
 ## Core skills
 
